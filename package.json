@@ -51,7 +51,7 @@
     "cars-counter"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bouzuya/cars-counter-bbn-entries.git"
