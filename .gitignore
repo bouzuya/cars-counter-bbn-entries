@@ -1,2 +1,7 @@
-.envrc
-node_modules/
+/*.tgz
+/.env*
+/.nyc_output/
+/.tmp/
+/coverage/
+/lib/
+/node_modules/
