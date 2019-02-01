@@ -10,9 +10,11 @@ npm install @bouzuya/cars-counter-bbn-entries
 
 ## Configuration
 
+```bash
+export BBN_ENTRIES_TAGS='["diary"]'
 ```
-$ export BBN_ENTRIES_TAGS='["diary"]'
-```
+
+See: [`_env`](_env).
 
 ## License
 
