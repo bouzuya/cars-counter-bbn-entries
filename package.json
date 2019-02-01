@@ -1,5 +1,5 @@
 {
-  "name": "cars-counter-bbn-entries",
+  "name": "@bouzuya/cars-counter-bbn-entries",
   "description": "A cars counter for entries in blog.bouzuya.net",
   "version": "1.0.0",
   "author": {

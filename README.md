@@ -4,8 +4,8 @@ A [bouzuya/cars][] counter for entries in blog.bouzuya.net
 
 ## Installation
 
-```
-$ npm install --save bouzuya/cars-counter-bbn-entries
+```bash
+npm install @bouzuya/cars-counter-bbn-entries
 ```
 
 ## Configuration
