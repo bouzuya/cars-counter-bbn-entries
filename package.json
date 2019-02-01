@@ -44,6 +44,9 @@
     "typescript": "^3.2.4",
     "watch": "^1.0.2"
   },
+  "files": [
+    "lib"
+  ],
   "homepage": "https://github.com/bouzuya/cars-counter-bbn-entries#readme",
   "keywords": [
     "bbn",
